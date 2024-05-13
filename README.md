@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/prashantks20" target="blank"><img src="https://img.shields.io/twitter/follow/prashantks20?logo=twitter&style=for-the-badge" alt="prashantks20" /></a> </p>
 
-- 🔭 I’m currently working on **LaundryFY**
+- 🔭 I’m currently working on **Adaptive AI**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **prashantsolanki2025@gmail.com**
 
